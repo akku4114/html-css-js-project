@@ -4,7 +4,7 @@
 
 h3 {
     color: rgb(253, 6, 200);
-    font-size: 25px;
+    font-size: 15px;
 }
 
 #b1, #b2, #b3, #b4, #b5,
@@ -25,10 +25,10 @@ span{
     box-sizing: border-box;
     width: 95px;
     height: 40px;
-    border: 1px solid dodgerblue;
+    border: 1px solid #009688;
     margin: auto;
     border-radius: 30px;
-    background-color: dodgerblue;
+    background-color: #009688;
     color: white;
     font-size: 20px;
     cursor: pointer;
@@ -46,6 +46,6 @@ span{
     background-image:linear-gradient(rgba(9, 38, 253, 0.492),rgba(68, 30, 30, 0.45)),url(./background.jpeg);
 }
 #ins {
-    color: rgb(10, 19, 29);
+    color: rgb(241, 244, 247);
     font-size: 17px;
 }
