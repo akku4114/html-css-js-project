@@ -39,12 +39,9 @@ h3 {
 }
 #main {
     text-align: center;
-    height: 580px;
-    width: 450px;
     border: 2px solid black;
-    position: fixed;
+    position: relative;
     top: 20px;
-    left: 400px;
     background-color: chartreuse;
 }
 #ins {
