@@ -18,8 +18,9 @@ h3 {
     font-size: 30px;
     text-align: center;
 }
-
-
+span{
+    color: blanchedalmond;
+}
 #but {
     box-sizing: border-box;
     width: 95px;
@@ -42,7 +43,7 @@ h3 {
     border: 2px solid black;
     position: relative;
     top: 20px;
-    background-color: chartreuse;
+    background-image:linear-gradient(rgba(9, 38, 253, 0.492),rgba(68, 30, 30, 0.45)),url(./background.jpeg);
 }
 #ins {
     color: rgb(10, 19, 29);
